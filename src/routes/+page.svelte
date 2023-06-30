@@ -11,14 +11,14 @@
 
 <section>
 	<h1>
-		<span class="welcome">
+		<span class="welcome Cloudstation">
 			<picture>
 				<source srcset={welcome} type="image/webp" />
 				<img src={welcome_fallback} alt="Welcome" />
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app Deployed By Cloudstation
+		to your new<br />SvelteKit app Deployed By Cloudstation tonight
 	</h1>
 
 	<h2>
