@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app Deployed By Cloudstation tonight
+		to your new<br />SvelteKit Cloud app Deployed By Cloudstation tonight
 	</h1>
 
 	<h2>
