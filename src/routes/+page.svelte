@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />TESTIMG Cloud app Deployed By Cloudstation tonight 66666
+		to your new<br /> Cloud app Deployed By Cloudstation tonight 
 	</h1>
 
 	<h2>
