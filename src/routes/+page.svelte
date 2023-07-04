@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br /> Cloud app Deployed By Cloudstation tonight 
+		to your new<br /> Svelt app Deployed By Cloudstation  :D 
 	</h1>
 
 	<h2>
