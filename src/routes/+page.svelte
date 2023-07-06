@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br /> Svelt app Deployed By FOR ZAK TO SEE Cloudstation  :D 
+		to your new<br /> Svelt app Deployed By FOR DRISS TO SEE Cloudstation  :D 
 	</h1>
 
 	<h2>
