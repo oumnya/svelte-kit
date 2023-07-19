@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br /> Svelt app Deployed By FOR DRISS TO SEE Cloudstation test logs
+		to your new<br /> Svelt app Deployed By FOR DRISS TO SEE Cloudstation testing logs after redeploy
 	</h1>
 
 	<h2>
