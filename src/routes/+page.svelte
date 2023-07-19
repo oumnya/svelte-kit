@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br /> Svelt app Deployed By FOR US TO SEE Cloudstation testing logs after redeploy AMELINE
+		to your new<br /> Svelt app Deployed By FOR US TO SEE Cloudstation testing logs after redeploy AMELINE 2 envs
 	</h1>
 
 	<h2>
