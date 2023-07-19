@@ -11,7 +11,7 @@
 
 <section>
 	<h1>
-		<span class="welcome Zak to Cloudstation :D">
+		<span class="welcome Zak to Cloudstation loggs">
 			<picture>
 				<source srcset={welcome} type="image/webp" />
 				<img src={welcome_fallback} alt="Welcome" />
