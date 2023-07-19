@@ -11,14 +11,14 @@
 
 <section>
 	<h1>
-		<span class="welcome Zak to Cloudstation">
+		<span class="welcome ABBAS to Cloudstation">
 			<picture>
 				<source srcset={welcome} type="image/webp" />
 				<img src={welcome_fallback} alt="Welcome" />
 			</picture>
 		</span>
 
-		to your new<br /> Svelt app Deployed By FOR DRISS TO SEE Cloudstation testing logs after redeploy
+		to your new<br /> Svelt app Deployed By FOR US TO SEE Cloudstation testing logs after redeploy ABBAS
 	</h1>
 
 	<h2>
